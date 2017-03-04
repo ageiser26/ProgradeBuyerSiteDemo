@@ -1,0 +1,15 @@
+{
+	"appname": "ProgradeBuyerSiteDemo",
+	"scope": "BuyerAdmin BuyerReader FullAccess AdminUserReader BuyerUserReader CatalogReader DevCenterIntegrationProxyAdmin DevCenterMessageConfigAdmin DevCenterWebHookAdmin AddressAdmin AddressReader AdminUserAdmin AdminUserGroupAdmin AdminUserGroupReader ApprovalRuleAdmin ApprovalRuleReader BuyerUserAdmin CatalogAdmin CategoryAdmin CategoryReader CostCenterAdmin CostCenterReader CreditCardAdmin CreditCardReader InventoryAdmin MeAddressAdmin MeAdmin MeCreditCardAdmin MessageConfigAssignmentAdmin MeXpAdmin OrderAdmin OrderReader OverrideShipping OverrideTax OverrideUnitPrice PermissionAdmin PriceScheduleAdmin PriceScheduleReader ProductAdmin ProductAssignmentAdmin ProductReader PromotionAdmin PromotionReader SetSecurityProfile SpendingAccountAdmin SpendingAccountReader UnsubmittedOrderReader UserGroupAdmin UserGroupReader",
+	"clientid": "7B5D0D47-809A-45D8-9B5D-E782DF063329",
+	"buyerid": "YW5M-Ll0SE6gcxqaLWXQyw",
+	"catalogid": "YW5M-Ll0SE6gcxqaLWXQyw",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
